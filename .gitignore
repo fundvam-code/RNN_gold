@@ -1,0 +1,12 @@
+/.gigacode_vsc/
+*.csv
+*.log
+*.txt
+*.ex5
+*.mqh
+.gigacode_vsc
+.gigaide/gigaide.properties
+.idea
+.spyproject/
+.vscode
+__pycache__/save_trades.cpython-314.pyc
