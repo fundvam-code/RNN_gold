@@ -10,3 +10,4 @@
 .spyproject/
 .vscode
 __pycache__/save_trades.cpython-314.pyc
+__pycache__/rnn_train.cpython-313.pyc
