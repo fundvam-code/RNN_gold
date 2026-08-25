@@ -11,3 +11,8 @@
 .vscode
 __pycache__/save_trades.cpython-314.pyc
 __pycache__/rnn_train.cpython-313.pyc
+artifacts/data_SELL_20200102_20260820_normalized.npz
+/data
+/output
+/artifacts
+
