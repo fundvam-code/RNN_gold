@@ -1,18 +1,19 @@
-/.gigacode_vsc/
+# Данные и артефакты обучения (большие, воспроизводятся скриптами)
+/data/
+/artifacts/
+/output/
+/output_final/
 *.csv
-*.log
-*.txt
-*.ex5
-*.mqh
-.gigacode_vsc
-.gigaide/gigaide.properties
-.idea
-.spyproject/
-.vscode
-__pycache__/save_trades.cpython-314.pyc
-__pycache__/rnn_train.cpython-313.pyc
-artifacts/data_SELL_20200102_20260820_normalized.npz
-/data
-/output
-/artifacts
+*.npz
+*.pth
 
+# Скомпилированные файлы MetaTrader
+*.ex5
+
+# Служебное
+/archive/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.log
